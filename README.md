@@ -7,3 +7,6 @@ assignment-2
 
 assignment-4
 [https://github.com/vrushikesh123/23CSBT39-40/blob/main/Assignment4_1.ipynb]
+
+assignment-7
+[https://github.com/vrushikesh123/23CSBT39-40/blob/main/Assigment7.ipynb]
